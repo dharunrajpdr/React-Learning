@@ -1,6 +1,6 @@
 # 📘 React – Environment Variables
 
-## 🔹 33. Environment Variables
+## 🔹Environment Variables
 
 ### 1. What are Environment Variables?
 
